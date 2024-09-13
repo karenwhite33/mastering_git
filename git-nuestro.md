@@ -1,4 +1,4 @@
-# CODIGO AL GIT NUESTRO DE NUESTRAS ALMAS
+#git.nuestro
 
 Git nuestro
 *Git* nuestro que estas en los repos
